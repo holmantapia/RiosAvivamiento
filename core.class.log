@@ -1,0 +1,65 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126610564@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0C0E0F535C52EC05DB',
+    participant: undefined
+  },
+  messageTimestamp: 1740082569,
+  pushName: 'Saray Benitez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jaja',
+  from: '573126610564'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b6628fb8-d891-4f65-94e0-96494eef7bdf',
+  keyword: 'key_a0392ef4-25a4-4c23-9054-0b0859ab7754',
+  answer: 'Gracias por comunicarte con nosotros\n' +
+    '\n' +
+    '*IGLESIA RÍOS DE AVIVAMIENTO 🙌*\n' +
+    '\n' +
+    '📖 Enviados a Manifestar el Amor de Dios, con el Poder del Espíritu Santo en Salvación, Provisión, Crecimiento, Milagros y Sanidades. Venid a las aguas...\n' +
+    ' ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '06fb1a15d0b38dcb7011e2ccfa6280ce'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126610564@s.whatsapp.net',
+    fromMe: false,
+    id: '3A52E4DA629B6DD2B3CC',
+    participant: undefined
+  },
+  messageTimestamp: 1740082575,
+  pushName: 'Saray Benitez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573126610564'
+}

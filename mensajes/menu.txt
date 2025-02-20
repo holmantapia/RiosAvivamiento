@@ -1,0 +1,6 @@
+📌 *MENÚ PRINCIPAL*
+Por favor, selecciona una opción escribiendo el número correspondiente:
+
+    1️⃣ 📅 Nuestros horarios de servicios
+    2️⃣ 💬 Solicitar consejería espiritual
+    3️⃣ 🙏 Pedir oración
